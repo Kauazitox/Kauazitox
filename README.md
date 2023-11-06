@@ -44,5 +44,5 @@
  
 
   
-<img src="https://github.com/kauazitox/kauazitox/blob/main/images/alone.gif" alt="Alone Gif"/>  
+<img src="https://github.com/kauazitox/kauazitox/main/images/alone.gif" alt="Alone Gif"/>  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
