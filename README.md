@@ -2,11 +2,10 @@
 
 <p align="center">Hello ❤️!! I'm Kauã, a programming student looking to improve his skills in the most diverse areasI'm passionate about games and I like creating mods and plugins for them.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
 <div align="center">
         <a href="#">
                 <img height="160em" src="https://github-readme-stats-q1oxknttp-Kauazitox.vercel.app/api?username=Kauazitox&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-                <img height="160em" src="https://github-readme-stats-q1oxknttp-Kauazitox.vercel.app/api/top-langs/?username=Kauazitox&layout=compact&langs_count=7&theme=radical&custom_title=Most%20Used%20Languages%20(Public%20Repos)"/>
+                <img height="160em" src="https://github-readme-stats-q1oxknttp-focamacho.vercel.app/api/top-langs/?username=Kauzitox&layout=compact&langs_count=7&theme=radical&custom_title=Most%20Used%20Languages%20(Public%20Repos)"/>
                 <br/>
                 <img height="160em" src="https://streak-stats.demolab.com/?user=Kauazitox&theme=radical"/>
 
