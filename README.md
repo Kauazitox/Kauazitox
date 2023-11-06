@@ -2,6 +2,8 @@
         <a href="#">
             <h1>
                 <img src="https://img.shields.io/badge/Kauazitox-%230d1117.svg?style=for-the-badge&logoColor=white" alt="Kauazitox's Badge"/>
+            </h1>
+</div>
 
 <p align="center">Hello ❤️!! I'm Kauã, a programming student looking to improve his skills in the most diverse areasI'm passionate about games and I like creating mods and plugins for them.</p>&nbsp;
 
