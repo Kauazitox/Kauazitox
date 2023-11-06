@@ -3,7 +3,7 @@
 <p align="center">Hello ❤️!! I'm Kauã, a programming student looking to improve his skills in the most diverse areasI'm passionate about games and I like creating mods and plugins for them.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kauazitox&theme=radical&mode=weekly" />
+       <img height="160em" src="https://github-readme-stats.vercel.app/api username=Kauazito&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  </div>
  
  &nbsp;
