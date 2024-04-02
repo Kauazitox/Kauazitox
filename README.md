@@ -7,19 +7,6 @@
 
 <p align="center">Hello, my name is Kauã Matheus, I'm new to this world of technology, but I'm here to improve all my knowledge and show my full potential.</p>&nbsp;
 
-<div align="center">
-        <a href="#">
-                <img height="160em" src="https://streak-stats.demolab.com/?user=Kauazitox&theme=radical"/>
-
-                
-![Kauazitox GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauazitox&show_icons=true&theme=dracula)
-
- 
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
