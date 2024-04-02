@@ -5,7 +5,7 @@
             </h1>
 </div>
 
-<p align="center">Hello ❤️!! I'm Kauã, a programming student eager to enhance my skills in various areas. I have a deep passion for games and enjoy creating mods and plugins to improve the gaming experience. In my free time, I work as a graphic designer, with a primary focus on social media.</p>&nbsp;
+<p align="center">Hello, my name is Kauã Matheus, I'm new to this world of technology, but I'm here to improve all my knowledge and show my full potential.</p>&nbsp;
 
 <div align="center">
         <a href="#">
