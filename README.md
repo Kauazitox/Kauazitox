@@ -29,7 +29,4 @@
 <a href = "mailto:kauam4599@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
-
-  
-<img src="https://github.com/Kauazitox/Kauazitox/blob/main/imagens/kikc.gif" alt="Kickz Gif"/>  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
