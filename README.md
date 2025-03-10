@@ -1,7 +1,7 @@
 <div align="center">
         <a href="#">
             <h1>
-                <img src="https://img.shields.io/badge/Kauazitox-%230d1117.svg?style=for-the-badge&logoColor=white" alt="Kauazitox's Badge"/>
+                <img src="https://img.shields.io/badge/Kauazitox-%230d1117.svg?style=for-the-badge&logoColor=white" alt="Shardz's Badge"/>
             </h1>
 </div>
 
